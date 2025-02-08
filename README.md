@@ -1,11 +1,11 @@
 # 🥋 Dashboard of Olympic Judo
 
 ## 📚 About Data
-Shark attacks reported over the past 100 years, including location, activity, victim info (name, gender, age), shark species, etc.
+3 datasets of Olympic: 2024 Paris, 2020 Tokyo, 120 years of Olympic History datasets.
 
-This dataset contains a csv table with 6,095 records.
-
-Dataset was extracted from [here](https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks)
+Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
+Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/tokyo-2020-olympics)
+Dataset was extracted from [here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## 💡 Questions to ask
 - Have shark attacks been increaseing or decreasing over the past 20 years?
@@ -26,10 +26,8 @@ Dataset was extracted from [here](https://www.kaggle.com/datasets/mysarahmadbhat
 - If anything other than time under Time column, they're Unknown. Cleaned the time into 2 digits (01, 02...)
 - Missing values under Species, no species were given, "large" or "small" shark, only size given, they were filled in as Unknown
 
-📍 Clean Data: [shark_data_cleaned.csv](https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/main/Shark%20Attacks%20Clean.csv)
+📍 Clean Data: [Olympic_Judo_cleaned.csv](https://github.com/andyalwaysok/Olympic-Judo-Dashboard/blob/main/clean_olympics_data.xlsx)
 
 ## 📊 Visualization
-Tableau: [Dashboard](https://public.tableau.com/app/profile/sung.yoon7327/viz/DashboardofSharkAttacks/SharkAttacksDashboard)
 
-
-<img width="1000" alt="image" src=https://github.com/andyalwaysok/Shark-Attack-Tableau/blob/98dce55ae5d63fe486d7c5c8c8689f1e5acdd99e/Shark%20Attacks%20Dashboard.png>
+<img width="1000" alt="image" src=https://github.com/andyalwaysok/Olympic-Judo-Dashboard/blob/47ecad6125cfad9b7ee68f26d2f043b177c50534/Olympic%20Judo%20Dashboard.png>
