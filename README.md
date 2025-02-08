@@ -32,4 +32,4 @@
 
 ## 📊 Visualization
 
-<img width="1000" alt="image" src=https://github.com/andyalwaysok/Olympic-Judo-Dashboard/blob/47ecad6125cfad9b7ee68f26d2f043b177c50534/Olympic%20Judo%20Dashboard.png>
+<img width="1000" alt="image" src=https://github.com/andyalwaysok/Olympic-Judo-Dashboard/blob/deb066f8dcdf7a44b0462ae0a601455ac4e9aef1/Olympic%20Judo%20Dashboard.png>
