@@ -3,11 +3,11 @@
 ## 📚 About Data
 3 datasets of Olympic: 2024 Paris, 2020 Tokyo, 120 years of Olympic History datasets.
 
-Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
+2024 Paris Olympic Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
 
-Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/tokyo-2020-olympics)
+2020 Tokyo Olympic Dataset was extracted from [here](https://www.kaggle.com/datasets/piterfm/tokyo-2020-olympics)
 
-Dataset was extracted from [here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+120 years of Olympic History Dataset was extracted from [here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## 💡 Questions to ask
 - Have shark attacks been increaseing or decreasing over the past 20 years?
